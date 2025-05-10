@@ -22,6 +22,13 @@ trewq
 oiuu
 rwkmds
 reifef,l
+<<<<<<< HEAD
 Hello stats
 Hi gov
+=======
+Hi Hello
+How you doing
+How dare you
+
+>>>>>>> origin
                 
