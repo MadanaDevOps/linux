@@ -24,12 +24,5 @@ rwkmds
 reifef,l
 <<<<<<< HEAD
 HI HOW Are you
-=======
-Hi Hello
-How you doing
-How dare you
-nothing
-doing
-
->>>>>>> refs/remotes/origin/main
-                
+Hellow world
+Nation
